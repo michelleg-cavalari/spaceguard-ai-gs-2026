@@ -6,7 +6,8 @@
 
 **Michelle Guedes Cavalari**
 RM564557
-
+**Gustavo Zanette Martins**
+RM564523
 ---
 
 # 📖 Sobre o Projeto
